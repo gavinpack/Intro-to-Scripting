@@ -66,6 +66,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\StartScript.cs" />
+    <Compile Include="Assets\Variables.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/10839088/Documents/Git Repos/Intro to Scripting/Intro-to-Scripting/Project 1/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
