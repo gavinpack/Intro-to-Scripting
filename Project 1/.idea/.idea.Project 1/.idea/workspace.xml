@@ -12,8 +12,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/StartScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Variables.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/StartScript.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -79,6 +79,9 @@
       <workItem from="1567542950828" duration="25000" />
       <workItem from="1567542998524" duration="2404000" />
       <workItem from="1567546330001" duration="592000" />
+      <workItem from="1567825952661" duration="162000" />
+      <workItem from="1567826186397" duration="601000" />
+      <workItem from="1567827383469" duration="25000" />
     </task>
     <servers />
   </component>
