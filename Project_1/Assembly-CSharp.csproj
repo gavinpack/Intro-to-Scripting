@@ -67,6 +67,7 @@
     <Compile Include="Assets\Dog_Class.cs" />
     <Compile Include="Assets\MouseEvents.cs" />
     <Compile Include="Assets\Movement.cs" />
+    <Compile Include="Assets\Movement2.cs" />
     <Compile Include="Assets\Particle_Control.cs" />
     <Compile Include="Assets\Start_Script.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
