@@ -11,11 +11,13 @@
         <e p="Dog_Class.cs" t="Include" />
         <e p="GetFruit.cs" t="Include" />
         <e p="IfStatements.cs" t="Include" />
+        <e p="IntData.cs" t="Include" />
         <e p="MouseEvents.cs" t="Include" />
         <e p="Movement.cs" t="Include" />
         <e p="Movement2.cs" t="Include" />
         <e p="Particle_Control.cs" t="Include" />
         <e p="Start_Script.cs" t="Include" />
+        <e p="UITextController.cs" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />

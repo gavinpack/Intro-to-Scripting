@@ -68,11 +68,13 @@
     <Compile Include="Assets\Dog_Class.cs" />
     <Compile Include="Assets\GetFruit.cs" />
     <Compile Include="Assets\IfStatements.cs" />
+    <Compile Include="Assets\IntData.cs" />
     <Compile Include="Assets\MouseEvents.cs" />
     <Compile Include="Assets\Movement.cs" />
     <Compile Include="Assets\Movement2.cs" />
     <Compile Include="Assets\Particle_Control.cs" />
     <Compile Include="Assets\Start_Script.cs" />
+    <Compile Include="Assets\UITextController.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/10839088/Documents/Git Repos/Intro-to-Scripting/Project_1/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
