@@ -6,5 +6,5 @@ using UnityEngine.Events.UnityEvent
 
 public class Dog_Class : MonoBehaviour
 {
-    public UnityEvent
+    public UnityEvent;
 }

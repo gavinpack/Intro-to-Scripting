@@ -12,12 +12,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/GetFruit.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Cat_Class.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MonoEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Start_Script.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Particle_Control.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UITextController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GetFruit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Cat_Class.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UIImageController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ApplyForce.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Dog_Class.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Movement.cs" root0="FORCE_HIGHLIGHTING" />
@@ -28,7 +31,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Cat_Class.cs" />
-        <option value="$PROJECT_DIR$/Assets/Dog_Class.cs" />
         <option value="$PROJECT_DIR$/Assets/Start_Script.cs" />
         <option value="$PROJECT_DIR$/Assets/Particle_Control.cs" />
         <option value="$PROJECT_DIR$/Assets/NewBehaviourScript.cs" />
@@ -38,7 +40,11 @@
         <option value="$PROJECT_DIR$/Assets/GetFruit.cs" />
         <option value="$PROJECT_DIR$/Assets/ApplyForce.cs" />
         <option value="$PROJECT_DIR$/Assets/IntData.cs" />
+        <option value="$PROJECT_DIR$/Assets/MonoEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dog_Class.cs" />
         <option value="$PROJECT_DIR$/Assets/UITextController.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIImageController.cs" />
+        <option value="$PROJECT_DIR$/Assets/FloatData.cs" />
       </list>
     </option>
   </component>
@@ -99,6 +105,7 @@
       <workItem from="1568921731811" duration="4630000" />
       <workItem from="1569357946782" duration="3872000" />
       <workItem from="1569962397821" duration="3614000" />
+      <workItem from="1570135576092" duration="3876000" />
     </task>
     <servers />
   </component>
