@@ -17,14 +17,15 @@
     <setting file="file://$PROJECT_DIR$/Assets/Particle_Control.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UITextController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/GetFruit.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Cat_Class.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UIImageController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PlayerData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ApplyForce.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Dog_Class.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameArtData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Movement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/IntData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/WeaponData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Movement2.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -41,10 +42,14 @@
         <option value="$PROJECT_DIR$/Assets/ApplyForce.cs" />
         <option value="$PROJECT_DIR$/Assets/IntData.cs" />
         <option value="$PROJECT_DIR$/Assets/MonoEvents.cs" />
-        <option value="$PROJECT_DIR$/Assets/Dog_Class.cs" />
-        <option value="$PROJECT_DIR$/Assets/UITextController.cs" />
         <option value="$PROJECT_DIR$/Assets/UIImageController.cs" />
+        <option value="$PROJECT_DIR$/Assets/UITextController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dog_Class.cs" />
         <option value="$PROJECT_DIR$/Assets/FloatData.cs" />
+        <option value="$PROJECT_DIR$/Assets/DogClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameArtData.cs" />
+        <option value="$PROJECT_DIR$/Assets/WeaponData.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerData.cs" />
       </list>
     </option>
   </component>
@@ -106,6 +111,9 @@
       <workItem from="1569357946782" duration="3872000" />
       <workItem from="1569962397821" duration="3614000" />
       <workItem from="1570135576092" duration="3876000" />
+      <workItem from="1570567106200" duration="523000" />
+      <workItem from="1570568346703" duration="1736000" />
+      <workItem from="1570570139835" duration="1640000" />
     </task>
     <servers />
   </component>

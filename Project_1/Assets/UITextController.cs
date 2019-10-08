@@ -9,7 +9,7 @@ public class UITextController : MonoBehaviour
 
     public void UpdateText(IntData data)
     {
-        textLabel.text = data.value.ToString()
+        textLabel.text = data.value.ToString();
     }
     void Awake()
     {
