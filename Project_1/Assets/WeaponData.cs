@@ -3,5 +3,5 @@
 [CreateAssetMenu]
 public class WeaponData : GameArtData
 {
-    public int weaponPower = 10;
+    public int powerLevel = 10;
 }

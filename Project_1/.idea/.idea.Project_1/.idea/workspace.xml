@@ -16,6 +16,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Start_Script.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Particle_Control.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UITextController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ClothesData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/GetFruit.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UIImageController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
@@ -50,6 +51,7 @@
         <option value="$PROJECT_DIR$/Assets/GameArtData.cs" />
         <option value="$PROJECT_DIR$/Assets/WeaponData.cs" />
         <option value="$PROJECT_DIR$/Assets/PlayerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/ClothesData.cs" />
       </list>
     </option>
   </component>
@@ -114,6 +116,8 @@
       <workItem from="1570567106200" duration="523000" />
       <workItem from="1570568346703" duration="1736000" />
       <workItem from="1570570139835" duration="1640000" />
+      <workItem from="1570739808437" duration="3999000" />
+      <workItem from="1570744391676" duration="72000" />
     </task>
     <servers />
   </component>
