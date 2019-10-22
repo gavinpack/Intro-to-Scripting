@@ -13,21 +13,20 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/MonoEvents.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Start_Script.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Particle_Control.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/UITextController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UiTextController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ClothesData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/GetFruit.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/UIImageController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MovementTwo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UiImageController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PlayerData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameArtCollection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ApplyForce.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/GameArtData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Movement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/IntData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/WeaponData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Movement2.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -40,7 +39,6 @@
         <option value="$PROJECT_DIR$/Assets/Movement2.cs" />
         <option value="$PROJECT_DIR$/Assets/IfStatements.cs" />
         <option value="$PROJECT_DIR$/Assets/GetFruit.cs" />
-        <option value="$PROJECT_DIR$/Assets/ApplyForce.cs" />
         <option value="$PROJECT_DIR$/Assets/IntData.cs" />
         <option value="$PROJECT_DIR$/Assets/MonoEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/UIImageController.cs" />
@@ -48,10 +46,16 @@
         <option value="$PROJECT_DIR$/Assets/Dog_Class.cs" />
         <option value="$PROJECT_DIR$/Assets/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/DogClass.cs" />
-        <option value="$PROJECT_DIR$/Assets/GameArtData.cs" />
         <option value="$PROJECT_DIR$/Assets/WeaponData.cs" />
         <option value="$PROJECT_DIR$/Assets/PlayerData.cs" />
         <option value="$PROJECT_DIR$/Assets/ClothesData.cs" />
+        <option value="$PROJECT_DIR$/Assets/clothesData.cs" />
+        <option value="$PROJECT_DIR$/Assets/collectionData.cs" />
+        <option value="$PROJECT_DIR$/Assets/ApplyForce.cs" />
+        <option value="$PROJECT_DIR$/Assets/MovementTwo.cs" />
+        <option value="$PROJECT_DIR$/Assets/UiTextController.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameArtData.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameArtCollection.cs" />
       </list>
     </option>
   </component>
@@ -118,6 +122,9 @@
       <workItem from="1570570139835" duration="1640000" />
       <workItem from="1570739808437" duration="3999000" />
       <workItem from="1570744391676" duration="72000" />
+      <workItem from="1571778898419" duration="1311000" />
+      <workItem from="1571780290944" duration="967000" />
+      <workItem from="1571781298428" duration="39000" />
     </task>
     <servers />
   </component>

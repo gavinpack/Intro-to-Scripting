@@ -9,6 +9,7 @@
         <e p="ApplyForce.cs" t="Include" />
         <e p="ClothesData.cs" t="Include" />
         <e p="FloatData.cs" t="Include" />
+        <e p="GameArtCollection.cs" t="Include" />
         <e p="GameArtData.cs" t="Include" />
         <e p="GetFruit.cs" t="Include" />
         <e p="IfStatements.cs" t="Include" />
@@ -16,10 +17,10 @@
         <e p="MonoEvents.cs" t="Include" />
         <e p="MouseEvents.cs" t="Include" />
         <e p="Movement.cs" t="Include" />
-        <e p="Movement2.cs" t="Include" />
-        <e p="Particle_Control.cs" t="Include" />
+        <e p="movementTwo.cs" t="Include" />
+        <e p="particleControl.cs" t="Include" />
         <e p="PlayerData.cs" t="Include" />
-        <e p="Start_Script.cs" t="Include" />
+        <e p="startScript.cs" t="Include" />
         <e p="UIImageController.cs" t="Include" />
         <e p="UITextController.cs" t="Include" />
         <e p="WeaponData.cs" t="Include" />
