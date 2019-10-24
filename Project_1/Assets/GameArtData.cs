@@ -3,7 +3,7 @@
 public class GameArtData : ScriptableObject
 {
     public Sprite sprite;
-    public Color color = Color.red;
+    public Color spriteColor = Color.red;
     public GameObject prefab;
     public bool collected;
 }
