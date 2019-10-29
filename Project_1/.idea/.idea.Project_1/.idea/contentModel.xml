@@ -9,6 +9,9 @@
         <e p="ApplyForce.cs" t="Include" />
         <e p="CinemachineController.cs" t="Include" />
         <e p="ClothesData.cs" t="Include" />
+        <e p="Debugger.cs" t="Include" />
+        <e p="DebuggerHandler.cs" t="Include" />
+        <e p="EnumSwitch.cs" t="Include" />
         <e p="FloatData.cs" t="Include" />
         <e p="GameArtCollection.cs" t="Include" />
         <e p="GameArtData.cs" t="Include" />
@@ -22,7 +25,9 @@
         <e p="movementTwo.cs" t="Include" />
         <e p="particleControl.cs" t="Include" />
         <e p="PlayerData.cs" t="Include" />
+        <e p="PlayerHandler.cs" t="Include" />
         <e p="startScript.cs" t="Include" />
+        <e p="TriggerEvents.cs" t="Include" />
         <e p="UIImageController.cs" t="Include" />
         <e p="UITextController.cs" t="Include" />
         <e p="WeaponData.cs" t="Include" />
