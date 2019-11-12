@@ -29,6 +29,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/GameArtCollection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ApplyForce.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Coroutines.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/GameArtData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/DebuggerHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/WeaponData.cs" root0="FORCE_HIGHLIGHTING" />
@@ -70,6 +71,7 @@
         <option value="$PROJECT_DIR$/Assets/TriggerEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/PlayerData.cs" />
         <option value="$PROJECT_DIR$/Assets/PlayerHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Coroutines.cs" />
       </list>
     </option>
   </component>
@@ -142,6 +144,7 @@
       <workItem from="1571945115628" duration="770000" />
       <workItem from="1571948771918" duration="4550000" />
       <workItem from="1572381141684" duration="4150000" />
+      <workItem from="1573595210816" duration="2923000" />
     </task>
     <servers />
   </component>
