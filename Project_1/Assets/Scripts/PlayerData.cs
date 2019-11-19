@@ -4,7 +4,7 @@ using UnityEngine;
 [CreateAssetMenu]
 public class PlayerData : GameArtData
 {
-   public UnityAction<GameObject
+   public UnityAction<GameObject>
    public WeaponData weapon;
    public FloatData health;
    public ClothesData pants;
