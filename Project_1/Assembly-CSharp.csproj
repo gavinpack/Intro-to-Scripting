@@ -63,34 +63,31 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\AiNav.cs" />
-    <Compile Include="Assets\Scripts\ApplyForce.cs" />
-    <Compile Include="Assets\Scripts\CinemachineController.cs" />
-    <Compile Include="Assets\Scripts\ClothesData.cs" />
-    <Compile Include="Assets\Scripts\CoroutineClass.cs" />
-    <Compile Include="Assets\Scripts\Coroutines.cs" />
-    <Compile Include="Assets\Scripts\Debugger.cs" />
-    <Compile Include="Assets\Scripts\DebuggerHandler.cs" />
-    <Compile Include="Assets\Scripts\EnumSwitch.cs" />
-    <Compile Include="Assets\Scripts\FloatData.cs" />
-    <Compile Include="Assets\Scripts\GameArtCollection.cs" />
-    <Compile Include="Assets\Scripts\GameArtData.cs" />
-    <Compile Include="Assets\Scripts\GetFruit.cs" />
-    <Compile Include="Assets\Scripts\IfStatements.cs" />
-    <Compile Include="Assets\Scripts\IntData.cs" />
-    <Compile Include="Assets\Scripts\Lists.cs" />
-    <Compile Include="Assets\Scripts\MonoEvents.cs" />
-    <Compile Include="Assets\Scripts\MouseEvents.cs" />
-    <Compile Include="Assets\Scripts\Movement.cs" />
-    <Compile Include="Assets\Scripts\MovementTwo.cs" />
-    <Compile Include="Assets\Scripts\ParticleControl.cs" />
-    <Compile Include="Assets\Scripts\PlayerData.cs" />
-    <Compile Include="Assets\Scripts\PlayerHandler.cs" />
-    <Compile Include="Assets\Scripts\StartScript.cs" />
-    <Compile Include="Assets\Scripts\TriggerEvents.cs" />
-    <Compile Include="Assets\Scripts\UIImageController.cs" />
-    <Compile Include="Assets\Scripts\UITextController.cs" />
-    <Compile Include="Assets\Scripts\WeaponData.cs" />
+    <Compile Include="Assets\ApplyForce.cs" />
+    <Compile Include="Assets\CinemachineController.cs" />
+    <Compile Include="Assets\ClothesData.cs" />
+    <Compile Include="Assets\Debugger.cs" />
+    <Compile Include="Assets\DebuggerHandler.cs" />
+    <Compile Include="Assets\EnumSwitch.cs" />
+    <Compile Include="Assets\FloatData.cs" />
+    <Compile Include="Assets\GameArtCollection.cs" />
+    <Compile Include="Assets\GameArtData.cs" />
+    <Compile Include="Assets\GetFruit.cs" />
+    <Compile Include="Assets\IfStatements.cs" />
+    <Compile Include="Assets\IntData.cs" />
+    <Compile Include="Assets\Lists.cs" />
+    <Compile Include="Assets\MonoEvents.cs" />
+    <Compile Include="Assets\MouseEvents.cs" />
+    <Compile Include="Assets\Movement.cs" />
+    <Compile Include="Assets\MovementTwo.cs" />
+    <Compile Include="Assets\ParticleControl.cs" />
+    <Compile Include="Assets\PlayerData.cs" />
+    <Compile Include="Assets\PlayerHandler.cs" />
+    <Compile Include="Assets\StartScript.cs" />
+    <Compile Include="Assets\TriggerEvents.cs" />
+    <Compile Include="Assets\UiImageController.cs" />
+    <Compile Include="Assets\UiTextController.cs" />
+    <Compile Include="Assets\WeaponData.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/10839088/Documents/Git Repos/Intro-to-Scripting/Project_1/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
@@ -310,9 +307,6 @@
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.5f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.Advertisements">
-      <HintPath>C:/Users/10839088/Documents/Git Repos/Intro-to-Scripting/Project_1/Library/PackageCache/com.unity.ads@2.0.8/UnityEngine.Advertisements.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.Analytics.Editor">
       <HintPath>C:/Users/10839088/Documents/Git Repos/Intro-to-Scripting/Project_1/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
@@ -321,9 +315,6 @@
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
       <HintPath>C:/Users/10839088/Documents/Git Repos/Intro-to-Scripting/Project_1/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.Purchasing">
-      <HintPath>C:/Users/10839088/Documents/Git Repos/Intro-to-Scripting/Project_1/Library/PackageCache/com.unity.purchasing@2.0.3/UnityEngine.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.5f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
