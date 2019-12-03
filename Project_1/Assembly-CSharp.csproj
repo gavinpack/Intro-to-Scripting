@@ -73,6 +73,8 @@
     <Compile Include="Assets\Scripts\Debugger.cs" />
     <Compile Include="Assets\Scripts\DebuggerHandler.cs" />
     <Compile Include="Assets\Scripts\EnumSwitch.cs" />
+    <Compile Include="Assets\Scripts\FireWeapon.cs" />
+    <Compile Include="Assets\Scripts\Flip.cs" />
     <Compile Include="Assets\Scripts\FloatData.cs" />
     <Compile Include="Assets\Scripts\GameArtCollection.cs" />
     <Compile Include="Assets\Scripts\GameArtData.cs" />
@@ -87,10 +89,12 @@
     <Compile Include="Assets\Scripts\ParticleControl.cs" />
     <Compile Include="Assets\Scripts\PlayerData.cs" />
     <Compile Include="Assets\Scripts\PlayerHandler.cs" />
+    <Compile Include="Assets\Scripts\SelfDestruct.cs" />
     <Compile Include="Assets\Scripts\StartScript.cs" />
     <Compile Include="Assets\Scripts\TriggerEvents.cs" />
     <Compile Include="Assets\Scripts\UIImageController.cs" />
     <Compile Include="Assets\Scripts\UITextController.cs" />
+    <Compile Include="Assets\Scripts\Vector3Data.cs" />
     <Compile Include="Assets\Scripts\WeaponData.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/10839088/Documents/Git Repos/Intro-to-Scripting/Project_1/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>

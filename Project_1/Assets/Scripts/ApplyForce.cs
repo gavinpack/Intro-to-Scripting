@@ -5,15 +5,17 @@
 public class ApplyForce : MonoBehaviour
 {
     private Rigidbody _rb;
-    public Vector3 forces;
+    public Vector3Data forceDirection;
+    public float force = 3f;
     
     void Start()
     {
         _rb = GetComponent<Rigidbody>();
+        _rb.AddForce(forceDirection.value*force);
     }
 
     private void OnCollisionEnter(Collision other)
     {
-        _rb.AddForce(forces);
+        
     }
 }

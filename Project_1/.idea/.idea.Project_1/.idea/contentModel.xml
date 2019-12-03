@@ -17,6 +17,8 @@
           <e p="Debugger.cs" t="Include" />
           <e p="DebuggerHandler.cs" t="Include" />
           <e p="EnumSwitch.cs" t="Include" />
+          <e p="FireWeapon.cs" t="Include" />
+          <e p="Flip.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="GameArtCollection.cs" t="Include" />
           <e p="GameArtData.cs" t="Include" />
@@ -31,10 +33,12 @@
           <e p="particleControl.cs" t="Include" />
           <e p="PlayerData.cs" t="Include" />
           <e p="PlayerHandler.cs" t="Include" />
+          <e p="SelfDestruct.cs" t="Include" />
           <e p="startScript.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />
           <e p="UIImageController.cs" t="Include" />
           <e p="UITextController.cs" t="Include" />
+          <e p="Vector3Data.cs" t="Include" />
           <e p="WeaponData.cs" t="Include" />
         </e>
       </e>

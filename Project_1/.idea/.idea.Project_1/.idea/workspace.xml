@@ -12,10 +12,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Vector3Data.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FireWeapon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ApplyForce.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroutineClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UIImageController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ButtonInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SelfDestruct.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Flip.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -58,6 +63,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/CoroutineClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ButtonInuput.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ButtonInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Vecrtor3Data.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SelfDestruct.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Flip.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FireWeapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ApplyForce.cs" />
       </list>
     </option>
   </component>
@@ -133,6 +143,7 @@
       <workItem from="1573595210816" duration="2923000" />
       <workItem from="1573767747670" duration="3717000" />
       <workItem from="1574203600499" duration="457000" />
+      <workItem from="1575410063210" duration="3455000" />
     </task>
     <servers />
   </component>
