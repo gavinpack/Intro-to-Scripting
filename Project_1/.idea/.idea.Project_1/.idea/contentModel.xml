@@ -17,13 +17,16 @@
           <e p="Debugger.cs" t="Include" />
           <e p="DebuggerHandler.cs" t="Include" />
           <e p="EnumSwitch.cs" t="Include" />
-          <e p="FireWeapon.cs" t="Include" />
           <e p="Flip.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
+          <e p="GameAction.cs" t="Include" />
+          <e p="GameActionHandler.cs" t="Include" />
+          <e p="GameActionRaiser.cs" t="Include" />
           <e p="GameArtCollection.cs" t="Include" />
           <e p="GameArtData.cs" t="Include" />
           <e p="GetFruit.cs" t="Include" />
           <e p="IfStatements.cs" t="Include" />
+          <e p="Instancer.cs" t="Include" />
           <e p="IntData.cs" t="Include" />
           <e p="Lists.cs" t="Include" />
           <e p="MonoEvents.cs" t="Include" />
