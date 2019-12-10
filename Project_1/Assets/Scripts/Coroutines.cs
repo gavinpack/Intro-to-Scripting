@@ -1,5 +1,4 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
@@ -10,11 +9,11 @@ public class Coroutines : MonoBehaviour
    public int counter = 10;
    public bool canRun;
 
-   private WaitForSeconds wfsObj;
+   private WaitForSeconds _wfsObj;
 
    private void Awake()
    {
-      wfsObj = new WaitForSeconds(seconds);
+      _wfsObj = new WaitForSeconds(seconds);
    }
 
    public void CallCoroutine()

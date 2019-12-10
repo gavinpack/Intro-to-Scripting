@@ -1,10 +1,11 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 [CreateAssetMenu]
 public class PlayerData : GameArtData
 {
-   public UnityAction<GameObject>
+   public UnityAction<GameObject> instanceAction;
    public WeaponData weapon;
    public FloatData health;
    public ClothesData pants;

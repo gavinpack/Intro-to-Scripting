@@ -18,3 +18,4 @@ public class CinemachineController : MonoBehaviour
     {
         virtualCamera.Follow = obj.transform;
     }
+}
